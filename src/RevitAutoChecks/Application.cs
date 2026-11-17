@@ -15,7 +15,7 @@ namespace RevitAutoChecks
 {
     public class Application : IExternalApplication
     {
-        public const string RibbonTabName = "R.A.C.";
+        public const string RibbonTabName = "roshior-a";
         public const string HelpUrl = "https://github.com/roshior-a/RevitAutoChecks/";
 
         internal static RevitTask RevitTask { get; private set; }
