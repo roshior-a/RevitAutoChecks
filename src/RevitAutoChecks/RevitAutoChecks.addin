@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>RevitAutoChecks</Name>
+    <Assembly>RevitAutoChecks\RevitAutoChecks.dll</Assembly>
+    <AddInId>e090944e-8339-4ff4-aacc-18a36460efcd</AddInId>
+    <FullClassName>RevitAutoChecks.Application</FullClassName>
+    <VendorId>RAC</VendorId>
+    <VendorDescription>RevitAutoChecks, https://github.com/roshior-a/RevitAutoChecks</VendorDescription>
+  </AddIn>
+</RevitAddIns>
